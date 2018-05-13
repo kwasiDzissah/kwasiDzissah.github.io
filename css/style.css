@@ -347,12 +347,12 @@ ol.type li a:hover {
 /* Team Section */
 #team {
 	color: #ffffff;
-	background: #47648e;
+	background: #47648e url(../img/team-bg.jpg) center top no-repeat;
 	background-size: cover;
 }
 #team .overlay {
 	padding: 120px 0;
-	background: #e66e31;
+	background: #47648e;
 }
 #team h2, #team p {
 	color: #ffffff;
@@ -370,7 +370,7 @@ ol.type li a:hover {
 	width: 200px;
 	height: 200px;
 	border-radius: 50px 0 50px 0;
-	box-shadow: 15px 0 #b7643a;
+	box-shadow: 15px 0 #47648e;
 }
 #team .thumbnail {
 	background: transparent;
